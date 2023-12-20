@@ -1,0 +1,23 @@
+{
+  "categories": {
+    "Jeans": 100.0
+  },
+  "brand": {
+    "own": 120.0
+  },
+  "color": {
+    "Blue": 100.0
+  },
+  "keywords": {
+    "Cargo": 90.0,
+    "Jacket": 90.0
+  },
+  "material": {
+    "Denim": 80.0
+  },
+  "subcategories": {
+    "Trousers": 70.0,
+    "Jacket": 70.0,
+    "Skirt": 70.0
+  }
+}

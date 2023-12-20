@@ -1,0 +1,20 @@
+{
+  "categories": {
+    "neurology": 100.0,
+    "oncology": 80.0
+  },
+  "post_type": {
+    "news": 70.0,
+    "video": 120.0
+  },
+  "classification": {
+    "Branded": 100.0,
+    "Institutional": 80.0,
+    "Unbranded": 30.0
+  },
+  "disease": {
+    "Prostate Cancer": 90.0,
+    "Lung Cancer": 90.0,
+    "Alzheimer": 130.0
+  }
+}
