@@ -1,7 +1,9 @@
 {
   "categories": {
     "neurology": 100.0,
-    "oncology": 80.0
+    "oncology": 80.0,
+    "virology": 50.0,
+    "immunology": 30.0
   },
   "post_type": {
     "news": 70.0,
